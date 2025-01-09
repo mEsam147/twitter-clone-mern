@@ -30,3 +30,7 @@ server/.env  # This line ensures the .env file in the server folder is ignored
 *.njsproj
 *.sln
 *.sw?
+
+server/uploads/
+
+
